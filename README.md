@@ -1,6 +1,6 @@
 # tiktaktoe_python
 
-* This is a learning project to test my fundamentals skills with python
+* This is a learning project made with python
 * You can play tiktaktoe on command line just by running
 
 
