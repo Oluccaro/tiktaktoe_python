@@ -8,4 +8,4 @@
 python3 tictactoe.py
 ```
 
-* Obs.: only tested with the latest python 3.10.7 version
+* Obs.: only tested with python 3.10.7 version
